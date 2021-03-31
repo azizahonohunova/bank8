@@ -1,3 +1,3 @@
-module github.com/azizahonohunova/bank
+module bank
 
 go 1.16
